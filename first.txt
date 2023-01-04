@@ -1,3 +1,5 @@
 this is first line
 this is second line
 adding third line for second commit
+the dev1 created this line 
+may the above and my line merge to the master 
